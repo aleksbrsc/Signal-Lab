@@ -26,7 +26,7 @@ This app requires a functioning installation of MATLAB.
    ```
 
 
-### Running the APP
+### Running the App
 Now you may open the apps through either **terminal** or **MATLAB**.
 
 1. **Open through Terminal:**
