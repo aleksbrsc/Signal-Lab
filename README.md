@@ -15,18 +15,19 @@ Students/teachers can use this tool to showcase:
 ### Installation:
 This app requires a functioning installation of MATLAB. 
 
-1. **Clone the Repository:**
+1. **Navigate to a Directory:**
    Open terminal and create/enter your desired directory.
     ```bash
    cd /path/to/ParentDirectory  % Replace with the actual path
    ```
+    
+2. **Clone the Repository:**
    Use git to clone the Signal-Lab repository from GitHub:
    ```bash
    git clone https://github.com/aleksbrsc/Signal-Lab.git
    ```
 
-
-### Running the App
+### Running the App:
 Now you may open the apps through either **terminal** or **MATLAB**.
 
 1. **Open through Terminal:**
@@ -41,9 +42,9 @@ Now you may open the apps through either **terminal** or **MATLAB**.
    If that fails, either have MATLAB running first, or:
 
 2. **Open through MATLAB:** 
-   or open the directory on MATLAB and double-click any .mlapp file to run it.
-
-
+   1. Launch MATLAB and open the directory
+   2. Double-click any .mlapp file to open it
+   3. Click the play button to run it
 
 ### Additional Notes:
 Now you should see the Signal-Lab app interface within your MATLAB environment. Feel free to interact with the sliders and controls to explore different wireless networking concepts visually.
