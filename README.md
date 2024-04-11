@@ -1,14 +1,16 @@
 # Signal-Lab
 A MATLAB app providing interactive visualizations of core wireless networking concepts.
 Users require a MATLAB license (free for students/teachers in many schools) to use the application.
+We may decide to package Signal-Lab in the future to allow users without MATLAB to use the app.
 
 ### Key Features:
 Experiment with many parameters to observe their impact on signal behaviors.
 
 Students/teachers can use this tool to showcase:
-- Combinations of EM waves in 2D/3D with material obstruction
-- Modulation techniques on carrier signals
-- Audio signal analysis 
+- Superpositions of EM Waves in 2D/3D
+- EM Waves passing through a Medium
+- Voice Signal Analysis (Mic)
+- Frequency Modulation
 - and other wireless communication concepts
 
 
@@ -37,13 +39,13 @@ Now you may open the apps through either **terminal** or **MATLAB**.
    ```
    Then `ls` to find a list of apps, and `open` one of them:
    ```bash
-   open combining_em_waves.mlapp  % Replace with the actual file you want
+   open main.mlapp  % Replace with a specific app if you want
    ```
    If that fails, either have MATLAB running first, or:
 
 2. **Open through MATLAB:** 
    1. Launch MATLAB and open the directory
-   2. Double-click any .mlapp file to open it
+   2. Double-click main.mlapp file to open the main menu app
    3. Click the play button to run it
 
 ### Additional Notes:
