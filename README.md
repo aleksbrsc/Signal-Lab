@@ -54,6 +54,3 @@ Now you should see the Signal-Lab app interface within your MATLAB environment. 
 If you're having issues running the app:
 * Ensure that any additional MATLAB files required by the app (functions, data files, etc.) are located within the same directory or a subdirectory within the Signal-Lab folder structure.
 * If you encounter any errors while running the app, double-check the installation steps and verify that all necessary files are present and accessible.
-
-**Contributing (Optional):**
-If you have any suggestions for improvement, bug fixes, or additional features you'd like to see in Signal-Lab, feel free to create a pull request on the GitHub repo.
