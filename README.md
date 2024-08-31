@@ -1,17 +1,22 @@
 # Signal-Lab
 A MATLAB app providing interactive visualizations of core wireless networking concepts.
 Users require a MATLAB license (free for students/teachers in many schools) to use the application.
-We may decide to package Signal-Lab in the future to allow users without MATLAB to use the app.
+
+![main app](https://github.com/aleksbrsc/Signal-Lab/blob/main/images/main%20(app).png?raw=true)
+*We may decide to package Signal-Lab in the future to allow users without MATLAB to use the app*
 
 ### Key Features:
 Experiment with many parameters to observe their impact on signal behaviors.
 
 Students/teachers can use this tool to showcase:
 - Superpositions of EM Waves in 2D/3D
+![Combining EM Waves screenshot](https://github.com/aleksbrsc/Signal-Lab/blob/main/images/combining_em_waves.png?raw=true)
 - EM Waves passing through a Medium
+![EM Waves through a Medium screenshot](https://github.com/aleksbrsc/Signal-Lab/blob/main/images/medium.png?raw=true)
 - Voice Signal Analysis (Mic)
-- Frequency Modulation
-- and other wireless communication concepts
+![Voice Signal Analysis screenshot](https://github.com/aleksbrsc/Signal-Lab/blob/main/images/voice_analysis.png?raw=true)
+- Frequency Modulation, and other wireless communication concepts
+
 
 
 ### Installation:
